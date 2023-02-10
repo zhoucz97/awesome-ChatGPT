@@ -2,32 +2,29 @@
 
 > 记录看到的关于ChatGPT的学习资源、文章、讨论等。
 
-## ChatGPT简介
+## ChatGPT详解
 
 1. 官方介绍：[ChatGPT: Optimizing Language Models for Dialogue (openai.com)](https://openai.com/blog/chatgpt/)
 
 2. [台大陈蕴侬：InstructGPT-ChatGPT前身，从人类回馈中学习_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV18W4y1g7x4/?spm_id_from=444.41.list.card_archive.click&vd_source=a0cdcca7d567da626e54d50523fa551c)
 
 3. 李宏毅：ChatGPT是怎么练成的？ https://mp.weixin.qq.com/s/ylY4DOcVEVWP9uFPZZ9iYw
+4. 【**推荐**】：[ChatGPT/InstructGPT详解 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/590311003)
 
-## ChatGPT详解
-
-1. 【**推荐**】：[ChatGPT/InstructGPT详解 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/590311003)
-
-2. 【**强推**】[符尧大佬文章-拆解追溯 GPT-3.5 各项能力的起源](https://yaofu.notion.site/GPT-3-5-360081d91ec245f29029d37b54573756))
-3. [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/604237227?utm_campaign=shareopn&utm_medium=social&utm_oi=785438775361814528&utm_psn=1607370743255441408&utm_source=wechat_session)
-4. [对话大模型中的事实错误：ChatGPT 的缺陷 (qq.com)](https://mp.weixin.qq.com/s/CwYb1uLnzrz7s9jXeqSynw)
-5. [ChatGPT发展历程、原理、技术架构详解和产业未来 （收录于先进AI技术深度解读） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/590655677)
-6. [【强化学习 229】ChatGPT/InstructGPT - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/589827115)
-7. [通向AGI之路：大型语言模型（LLM）技术精要 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/597586623)
-8. **【RLHF】**Reinforcement learning from Human Feedback
-   - [从零实现ChatGPT——RLHF技术笔记 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/591474085)
-   - [Illustrating Reinforcement Learning from Human Feedback (RLHF) (huggingface.co)](https://huggingface.co/blog/rlhf)
-   - HuggingFace直播录像：https://www.youtube.com/watch?v=EAd4oQtEJOM&ab_channel=HuggingFace
-   - PPO算法详解：[Proximal Policy Optimization (PPO) Explained | by Wouter van Heeswijk, PhD | Towards Data Science](https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b)
-9. 【赛尔笔记】
-   1. [赛尔笔记 | 浅析ChatGPT的原理及应用 (qq.com)](https://mp.weixin.qq.com/s/wLVoY6BwWd9p4DqrpOMOxg)
-   2. [赛尔笔记 | ChatGPT第二弹：PPO算法 (qq.com)](https://mp.weixin.qq.com/s/h9c3w1af2uBYLlVbw7j82A)
+5. 【**强推**】[符尧大佬文章-拆解追溯 GPT-3.5 各项能力的起源](https://yaofu.notion.site/GPT-3-5-360081d91ec245f29029d37b54573756))
+6. [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/604237227?utm_campaign=shareopn&utm_medium=social&utm_oi=785438775361814528&utm_psn=1607370743255441408&utm_source=wechat_session)
+7. [对话大模型中的事实错误：ChatGPT 的缺陷 (qq.com)](https://mp.weixin.qq.com/s/CwYb1uLnzrz7s9jXeqSynw)
+8. [ChatGPT发展历程、原理、技术架构详解和产业未来 （收录于先进AI技术深度解读） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/590655677)
+9. [【强化学习 229】ChatGPT/InstructGPT - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/589827115)
+10. [通向AGI之路：大型语言模型（LLM）技术精要 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/597586623)
+11. **【RLHF】**Reinforcement learning from Human Feedback
+    - [从零实现ChatGPT——RLHF技术笔记 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/591474085)
+    - [Illustrating Reinforcement Learning from Human Feedback (RLHF) (huggingface.co)](https://huggingface.co/blog/rlhf)
+    - HuggingFace直播录像：https://www.youtube.com/watch?v=EAd4oQtEJOM&ab_channel=HuggingFace
+    - PPO算法详解：[Proximal Policy Optimization (PPO) Explained | by Wouter van Heeswijk, PhD | Towards Data Science](https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b)
+12. 【赛尔笔记】
+    1. [赛尔笔记 | 浅析ChatGPT的原理及应用 (qq.com)](https://mp.weixin.qq.com/s/wLVoY6BwWd9p4DqrpOMOxg)
+    2. [赛尔笔记 | ChatGPT第二弹：PPO算法 (qq.com)](https://mp.weixin.qq.com/s/h9c3w1af2uBYLlVbw7j82A)
 
 ## ChatGPT讨论
 
@@ -53,6 +50,18 @@
 4. InstructGPT：[[2203.02155\] Training language models to follow instructions with human feedback (arxiv.org)](https://arxiv.org/abs/2203.02155)
 5. PPO算法：[[1707.06347\] Proximal Policy Optimization Algorithms (arxiv.org)](https://arxiv.org/abs/1707.06347)
 6. Chain-of-Thought Prompting： [[2201.11903\] Chain-of-Thought Prompting Elicits Reasoning in Large Language Models (arxiv.org)](https://arxiv.org/abs/2201.11903)
+
+## ChatGPT竞品
+
+### Bard-Google
+
+1. [Google AI updates: Bard and new AI features in Search (blog.google)](https://blog.google/technology/ai/bard-google-ai-search-updates/)
+
+## YouChat
+
+1. [who are you - AI Search Based Chat | AI for Search Engines](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat)
+
+
 
 ## 动手实现ChatGPT/RLHF
 
