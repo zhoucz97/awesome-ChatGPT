@@ -4,41 +4,48 @@
 
 ## ChatGPT详解
 
-1. - [x] 官方介绍：[ChatGPT: Optimizing Language Models for Dialogue (openai.com)](https://openai.com/blog/chatgpt/)
+1. 官方介绍：[ChatGPT: Optimizing Language Models for Dialogue (openai.com)](https://openai.com/blog/chatgpt/)
 
-2. - [x] 台大陈蕴侬：InstructGPT-ChatGPT前身，从人类回馈中学习_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV18W4y1g7x4/?spm_id_from=444.41.list.card_archive.click&vd_source=a0cdcca7d567da626e54d50523fa551c)
+2. 台大陈蕴侬：InstructGPT-ChatGPT前身，从人类回馈中学习_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV18W4y1g7x4/?spm_id_from=444.41.list.card_archive.click&vd_source=a0cdcca7d567da626e54d50523fa551c)
 
-3. - [x] 李宏毅：ChatGPT是怎么练成的？ https://mp.weixin.qq.com/s/ylY4DOcVEVWP9uFPZZ9iYw
+3. 李宏毅：ChatGPT是怎么练成的？ https://mp.weixin.qq.com/s/ylY4DOcVEVWP9uFPZZ9iYw
 
-4. - [x] 【**推荐**】：[ChatGPT/InstructGPT详解 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/590311003)
+4. 【**推荐**】[ChatGPT/InstructGPT详解 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/590311003)
 
-5. - [x] 【**强推**】[符尧大佬文章-拆解追溯 GPT-3.5 各项能力的起源](https://yaofu.notion.site/GPT-3-5-360081d91ec245f29029d37b54573756))
+5. 【**强推**】[符尧大佬文章-拆解追溯 GPT-3.5 各项能力的起源](https://yaofu.notion.site/GPT-3-5-360081d91ec245f29029d37b54573756))
 
-6. - [ ] [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/604237227?utm_campaign=shareopn&utm_medium=social&utm_oi=785438775361814528&utm_psn=1607370743255441408&utm_source=wechat_session)
+6. 【推荐】[符尧直播：预训练，指令微调，对齐，专业化：论大预言模型能力的来源](https://www.bilibili.com/video/BV1Qs4y1h7pn/?spm_id_from=333.337.search-card.all.click&vd_source=a0cdcca7d567da626e54d50523fa551c)
 
-7. - [x] [对话大模型中的事实错误：ChatGPT 的缺陷 (qq.com)](https://mp.weixin.qq.com/s/CwYb1uLnzrz7s9jXeqSynw)
+7. [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/604237227?utm_campaign=shareopn&utm_medium=social&utm_oi=785438775361814528&utm_psn=1607370743255441408&utm_source=wechat_session)
 
-8. - [ ] [ChatGPT发展历程、原理、技术架构详解和产业未来 （收录于先进AI技术深度解读） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/590655677)
+8. [对话大模型中的事实错误：ChatGPT 的缺陷 (qq.com)](https://mp.weixin.qq.com/s/CwYb1uLnzrz7s9jXeqSynw)
 
-9. - [ ] [【强化学习 229】ChatGPT/InstructGPT - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/589827115)
+9. [ChatGPT发展历程、原理、技术架构详解和产业未来 （收录于先进AI技术深度解读） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/590655677)
 
-10. - [x] **【推荐】**[通向AGI之路：大型语言模型（LLM）技术精要 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/597586623)
+10. [【强化学习 229】ChatGPT/InstructGPT - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/589827115)
 
-11. **【RLHF】**Reinforcement learning from Human Feedback
+11. **【推荐】**[通向AGI之路：大型语言模型（LLM）技术精要 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/597586623)
 
+12. [车万翔：ChatGPT时代，NLPer 的危与机](https://mp.weixin.qq.com/s/BlcfBkuSyYXeUPKzfbSOGg)
+
+13. **【RLHF】**Reinforcement learning from Human Feedback
     - 强化学习教程：[datawhalechina/easy-rl: 强化学习中文教程（蘑菇书）](https://github.com/datawhalechina/easy-rl)
 
-    - - [x] [从零实现ChatGPT——RLHF技术笔记 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/591474085)
-    - - [ ] [ChatGPT 背后的“功臣”——RLHF 技术详解 (qq.com)](https://mp.weixin.qq.com/s?__biz=Mzk0MDQyNTY4Mw==&mid=2247484347&idx=1&sn=216b180e33cd4a422e3027c8176893cd&scene=21#wechat_redirect)
-    - - [x] [Illustrating Reinforcement Learning from Human Feedback (RLHF) (huggingface.co)](https://huggingface.co/blog/rlhf)
-    - - [ ] HuggingFace直播录像：https://www.youtube.com/watch?v=EAd4oQtEJOM&ab_channel=HuggingFace
-    - - [ ] PPO算法详解：[Proximal Policy Optimization (PPO) Explained | by Wouter van Heeswijk, PhD | Towards Data Science](https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b)
+    - [从零实现ChatGPT——RLHF技术笔记 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/591474085)
+    - [ChatGPT 背后的“功臣”——RLHF 技术详解 (qq.com)](https://mp.weixin.qq.com/s?__biz=Mzk0MDQyNTY4Mw==&mid=2247484347&idx=1&sn=216b180e33cd4a422e3027c8176893cd&scene=21#wechat_redirect)
+    - [Illustrating Reinforcement Learning from Human Feedback (RLHF) (huggingface.co)](https://huggingface.co/blog/rlhf)
+    - HuggingFace直播录像：https://www.youtube.com/watch?v=EAd4oQtEJOM&ab_channel=HuggingFace
+    - PPO算法详解：[Proximal Policy Optimization (PPO) Explained | by Wouter van Heeswijk, PhD | Towards Data Science](https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b)
 
-12. 【赛尔笔记】
-    1. - [ ] [赛尔笔记 | 浅析ChatGPT的原理及应用 (qq.com)](https://mp.weixin.qq.com/s/wLVoY6BwWd9p4DqrpOMOxg)
-    2. - [ ] [赛尔笔记 | ChatGPT第二弹：PPO算法 (qq.com)](https://mp.weixin.qq.com/s/h9c3w1af2uBYLlVbw7j82A)
+14. 【赛尔笔记】
+    1. [赛尔笔记 | 浅析ChatGPT的原理及应用 (qq.com)](https://mp.weixin.qq.com/s/wLVoY6BwWd9p4DqrpOMOxg)
+    2. [赛尔笔记 | ChatGPT第二弹：PPO算法 (qq.com)](https://mp.weixin.qq.com/s/h9c3w1af2uBYLlVbw7j82A)
 
-13. - [ ] [In-Context Learning玩法大全 (qq.com)](https://mp.weixin.qq.com/s/NLWCuzcCdwljQfzu-Jd9lQ)
+15. [In-Context Learning玩法大全 (qq.com)](https://mp.weixin.qq.com/s/NLWCuzcCdwljQfzu-Jd9lQ)
+
+16. [为什么所有公开的对 GPT-3 的复现都失败了？复现和使用GPT-3/ChatGPT，你所应该知道的 (qq.com)](https://mp.weixin.qq.com/s/AyXboJoKZsKasUJ0KUYtPA)
+
+17. [CS224N  2023 Prompting, Instruction Finetuning, and RLHF]()
 
 ## ChatGPT讨论
 
@@ -56,6 +63,7 @@
 10. [为什么chatgpt的上下文连续对话能力得到了大幅度提升？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/575481512)
 11. [为什么Yann lecun（杨立昆）对chatGPT持否定态度？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/582340981/answer/2883234341)
 12. [OpenAI 何以掀翻 Google 布局多年的AI大棋？ (qq.com)](https://mp.weixin.qq.com/s/qWQ6xVfQVEOJriYRVFWCrQ)
+13. [李rumor:追赶ChatGPT的难点与平替](https://mp.weixin.qq.com/s/eYmssaPFODjC7xwh1jHydQ)
 
 ## ChatGPT相关Paper
 
