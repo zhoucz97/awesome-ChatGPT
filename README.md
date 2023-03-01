@@ -2,50 +2,45 @@
 
 > 记录看到的关于ChatGPT的学习资源、文章、讨论等。
 
-## ChatGPT详解
+## ChatGPT整体介绍
 
 1. 官方介绍：[ChatGPT: Optimizing Language Models for Dialogue (openai.com)](https://openai.com/blog/chatgpt/)
+2. [ChatGPT团队背景（共87人）](https://mp.weixin.qq.com/s/VM2SzNyZF2bZDQ7tYvZFkA)
+3. 台大陈蕴侬视频（简单介绍）：[InstructGPT-ChatGPT前身，从人类回馈中学习_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV18W4y1g7x4/?spm_id_from=444.41.list.card_archive.click&vd_source=a0cdcca7d567da626e54d50523fa551c)
+4. [ChatGPT发展历程、原理、技术架构详解和产业未来 （收录于先进AI技术深度解读） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/590655677)
+5. [车万翔：ChatGPT时代，NLPer 的危与机](https://mp.weixin.qq.com/s/BlcfBkuSyYXeUPKzfbSOGg)
+6. 【推荐-李宏毅视频】：ChatGPT原理剖析(youtube.com)，（比较基础，入门可看）
+   1. [ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程 - YouTube](https://www.youtube.com/watch?v=e0aKI2GGZNg&ab_channel=Hung-yiLee)
+   2. [【生成式AI】ChatGPT 原理剖析 (1/3) — 對 ChatGPT 的常見誤解 - YouTube](https://www.youtube.com/watch?v=yiY4nPOzJEg&ab_channel=Hung-yiLee)
+   3. [【生成式AI】ChatGPT 原理剖析 (2/3) — 預訓練 (Pre-train) - YouTube](https://www.youtube.com/watch?v=1ah7Qsri_c8&ab_channel=Hung-yiLee)
+   4. [【生成式AI】ChatGPT 原理剖析 (3/3) — ChatGPT 所帶來的研究問題 - YouTube](https://www.youtube.com/watch?v=UsaZhQ9bY2k&ab_channel=Hung-yiLee)
+   5. [【生成式AI】用 ChatGPT 和 Midjourney 來玩文字冒險遊戲 - YouTube](https://www.youtube.com/watch?v=A-6c584jxX8&ab_channel=Hung-yiLee)
 
-2. 台大陈蕴侬：InstructGPT-ChatGPT前身，从人类回馈中学习_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV18W4y1g7x4/?spm_id_from=444.41.list.card_archive.click&vd_source=a0cdcca7d567da626e54d50523fa551c)
+## ChatGPT技术文章
 
-3. 李宏毅：ChatGPT是怎么练成的？ https://mp.weixin.qq.com/s/ylY4DOcVEVWP9uFPZZ9iYw
+1. 【**推荐**】[张俊林：通向AGI之路：大型语言模型（LLM）技术精要 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/597586623)
+2. 【**强烈推荐**（必看）】[符尧大佬文章-拆解追溯 GPT-3.5 各项能力的起源](https://yaofu.notion.site/GPT-3-5-360081d91ec245f29029d37b54573756)
+3. 【**强烈推荐**（必看）】CS224N课件，从Prompting讲到Instruction Tuning到RLHF，把GPT到ChatGPT的演化顺了一遍。
+   1. [CS224N课件  2023 Prompting, Instruction Finetuning, and RLHF](https://github.com/zhoucz97/awesome-ChatGPT/blob/main/cs224n-2023-lecture11-prompting-rlhf.pdf)
+4. 【**推荐**】[符尧直播：预训练，指令微调，对齐，专业化：论大预言模型能力的来源](https://www.bilibili.com/video/BV1Qs4y1h7pn/?spm_id_from=333.337.search-card.all.click&vd_source=a0cdcca7d567da626e54d50523fa551c)
+5. [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/604237227?utm_campaign=shareopn&utm_medium=social&utm_oi=785438775361814528&utm_psn=1607370743255441408&utm_source=wechat_session)
+6. [对话大模型中的事实错误：ChatGPT 的缺陷 (qq.com)](https://mp.weixin.qq.com/s/CwYb1uLnzrz7s9jXeqSynw)
+7. [【强化学习 229】ChatGPT/InstructGPT - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/589827115)
+8. [ChatGPT/InstructGPT详解 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/590311003)
+9. **【RLHF】**Reinforcement learning from Human Feedback，基于人类反馈的强化学习
+   - 强化学习教程：[datawhalechina/easy-rl: 强化学习中文教程（蘑菇书）](https://github.com/datawhalechina/easy-rl)
 
-4. 【**推荐**】[ChatGPT/InstructGPT详解 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/590311003)
-
-5. 【**强推**】[符尧大佬文章-拆解追溯 GPT-3.5 各项能力的起源](https://yaofu.notion.site/GPT-3-5-360081d91ec245f29029d37b54573756))
-
-6. 【推荐】[符尧直播：预训练，指令微调，对齐，专业化：论大预言模型能力的来源](https://www.bilibili.com/video/BV1Qs4y1h7pn/?spm_id_from=333.337.search-card.all.click&vd_source=a0cdcca7d567da626e54d50523fa551c)
-
-7. [解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/604237227?utm_campaign=shareopn&utm_medium=social&utm_oi=785438775361814528&utm_psn=1607370743255441408&utm_source=wechat_session)
-
-8. [对话大模型中的事实错误：ChatGPT 的缺陷 (qq.com)](https://mp.weixin.qq.com/s/CwYb1uLnzrz7s9jXeqSynw)
-
-9. [ChatGPT发展历程、原理、技术架构详解和产业未来 （收录于先进AI技术深度解读） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/590655677)
-
-10. [【强化学习 229】ChatGPT/InstructGPT - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/589827115)
-
-11. **【推荐】**[通向AGI之路：大型语言模型（LLM）技术精要 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/597586623)
-
-12. [车万翔：ChatGPT时代，NLPer 的危与机](https://mp.weixin.qq.com/s/BlcfBkuSyYXeUPKzfbSOGg)
-
-13. **【RLHF】**Reinforcement learning from Human Feedback
-    - 强化学习教程：[datawhalechina/easy-rl: 强化学习中文教程（蘑菇书）](https://github.com/datawhalechina/easy-rl)
-
-    - [从零实现ChatGPT——RLHF技术笔记 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/591474085)
-    - [ChatGPT 背后的“功臣”——RLHF 技术详解 (qq.com)](https://mp.weixin.qq.com/s?__biz=Mzk0MDQyNTY4Mw==&mid=2247484347&idx=1&sn=216b180e33cd4a422e3027c8176893cd&scene=21#wechat_redirect)
-    - [Illustrating Reinforcement Learning from Human Feedback (RLHF) (huggingface.co)](https://huggingface.co/blog/rlhf)
-    - HuggingFace直播录像：https://www.youtube.com/watch?v=EAd4oQtEJOM&ab_channel=HuggingFace
-    - PPO算法详解：[Proximal Policy Optimization (PPO) Explained | by Wouter van Heeswijk, PhD | Towards Data Science](https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b)
-
-14. 【赛尔笔记】
+   - [从零实现ChatGPT——RLHF技术笔记 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/591474085)
+   - [ChatGPT 背后的“功臣”——RLHF 技术详解 (qq.com)](https://mp.weixin.qq.com/s?__biz=Mzk0MDQyNTY4Mw==&mid=2247484347&idx=1&sn=216b180e33cd4a422e3027c8176893cd&scene=21#wechat_redirect)
+   - [Illustrating Reinforcement Learning from Human Feedback (RLHF) (huggingface.co)](https://huggingface.co/blog/rlhf)
+   - HuggingFace直播录像：https://www.youtube.com/watch?v=EAd4oQtEJOM&ab_channel=HuggingFace
+   - PPO算法详解：[Proximal Policy Optimization (PPO) Explained | by Wouter van Heeswijk, PhD | Towards Data Science](https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b)
+10. 【赛尔笔记】
     1. [赛尔笔记 | 浅析ChatGPT的原理及应用 (qq.com)](https://mp.weixin.qq.com/s/wLVoY6BwWd9p4DqrpOMOxg)
     2. [赛尔笔记 | ChatGPT第二弹：PPO算法 (qq.com)](https://mp.weixin.qq.com/s/h9c3w1af2uBYLlVbw7j82A)
-
-15. [In-Context Learning玩法大全 (qq.com)](https://mp.weixin.qq.com/s/NLWCuzcCdwljQfzu-Jd9lQ)
-
-16. [为什么所有公开的对 GPT-3 的复现都失败了？复现和使用GPT-3/ChatGPT，你所应该知道的 (qq.com)](https://mp.weixin.qq.com/s/AyXboJoKZsKasUJ0KUYtPA)
-
-17. [CS224N  2023 Prompting, Instruction Finetuning, and RLHF]()
+11. [In-Context Learning玩法大全 (qq.com)](https://mp.weixin.qq.com/s/NLWCuzcCdwljQfzu-Jd9lQ)
+12. [为什么所有公开的对 GPT-3 的复现都失败了？复现和使用GPT-3/ChatGPT，你所应该知道的 (qq.com)](https://mp.weixin.qq.com/s/AyXboJoKZsKasUJ0KUYtPA)
+13. 【数据集】[大规模语言模型训练必备数据集-The Pile：涵盖22类、800GB的多样性文本数据集概述](https://mp.weixin.qq.com/s/gKNjDYDleDhIeDqYh0M_Xw)
 
 ## ChatGPT讨论
 
@@ -104,10 +99,12 @@
 
 ## 动手实现ChatGPT/RLHF
 
-1. - [ ] [lvwerra/trl: Train transformer language models with reinforcement learning. (github.com)](https://github.com/lvwerra/trl)
-2. - [ ] [allenai/RL4LMs: A modular RL library to fine-tune language models to human preferences (github.com)](https://github.com/allenai/RL4LMs)
-3. - [ ] [CarperAI/trlx: A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF) (github.com)](https://github.com/CarperAI/trlx)
-4. - [ ] 一个更简单，更快的GPT，可以快速了解GPT具体实现：[karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
+1. [lvwerra/trl: Train transformer language models with reinforcement learning. (github.com)](https://github.com/lvwerra/trl)
+2. [allenai/RL4LMs: A modular RL library to fine-tune language models to human preferences (github.com)](https://github.com/allenai/RL4LMs)
+3. [CarperAI/trlx: A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF) (github.com)](https://github.com/CarperAI/trlx)
+4. 一个更简单，更快的GPT，可以快速了解GPT具体实现：[karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
+5. [GPT-3 + RL 全流程训练开源整理 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/608705255)
+6. 一堆ChatGPT的开源实现：https://mp.weixin.qq.com/s/5161sf9h2g5oQRSWar2QOQ
 
 ## ChatGPT应用开源项目
 
