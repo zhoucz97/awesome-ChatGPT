@@ -27,7 +27,7 @@
 6. [对话大模型中的事实错误：ChatGPT 的缺陷 (qq.com)](https://mp.weixin.qq.com/s/CwYb1uLnzrz7s9jXeqSynw)
 7. [【强化学习 229】ChatGPT/InstructGPT - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/589827115)
 8. [ChatGPT/InstructGPT详解 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/590311003)
-9. **【RLHF】**Reinforcement learning from Human Feedback，基于人类反馈的强化学习
+9. 【**RLHF**】Reinforcement learning from Human Feedback，基于人类反馈的强化学习
    - 强化学习教程：[datawhalechina/easy-rl: 强化学习中文教程（蘑菇书）](https://github.com/datawhalechina/easy-rl)
 
    - [从零实现ChatGPT——RLHF技术笔记 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/591474085)
@@ -67,7 +67,7 @@
 1. GPT1：[radford2018improving.pdf (ubc.ca)](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
 2. GPT2：[Language Models are Unsupervised Multitask Learners (openai.com)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 3. GPT3：[Language Models are Few-Shot Learners (arxiv.org)](https://arxiv.org/abs/2005.14165)
-4. InstructGPT：[[Training language models to follow instructions with human feedback (arxiv.org)](https://arxiv.org/abs/2203.02155)
+4. InstructGPT：[Training language models to follow instructions with human feedback (arxiv.org)](https://arxiv.org/abs/2203.02155)
 
 ### Prompt
 
