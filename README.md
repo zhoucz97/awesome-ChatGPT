@@ -66,8 +66,8 @@
 
 1. GPT1：[radford2018improving.pdf (ubc.ca)](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
 2. GPT2：[Language Models are Unsupervised Multitask Learners (openai.com)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
-3. GPT3：[[2005.14165\] Language Models are Few-Shot Learners (arxiv.org)](https://arxiv.org/abs/2005.14165)
-4. InstructGPT：[[2203.02155\] Training language models to follow instructions with human feedback (arxiv.org)](https://arxiv.org/abs/2203.02155)
+3. GPT3：[Language Models are Few-Shot Learners (arxiv.org)](https://arxiv.org/abs/2005.14165)
+4. InstructGPT：[[Training language models to follow instructions with human feedback (arxiv.org)](https://arxiv.org/abs/2203.02155)
 
 ### Prompt
 
@@ -79,11 +79,13 @@
    - CoT中推理的**有效性**对模型效果影响不大，即使是invalid reasoning steps，也能实现80%~90%的性能。
    - 推理**与query的relevance**以及**推理步骤的order**是CoT的关键。
 5. In-context Learning综述：[A Survey on In-context Learning (arxiv.org)](https://arxiv.org/abs/2301.00234)
-6. 
+6. LLM的缩放法则：[Scaling Laws for Neural Language Models (arxiv.org)](https://arxiv.org/abs/2001.08361)
 
-### 强化学习
+### RLHF
 
 1. PPO算法：[Proximal Policy Optimization Algorithms (arxiv.org)](https://arxiv.org/abs/1707.06347)
+1. RLHF做摘要任务：[Learning to summarize from human feedback (arxiv.org)](https://arxiv.org/abs/2009.01325)
+1. [Fine-Tuning Language Models from Human Preferences (arxiv.org)](https://arxiv.org/abs/1909.08593)
 
 ## ChatGPT竞品
 
