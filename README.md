@@ -27,7 +27,8 @@
 6. [对话大模型中的事实错误：ChatGPT 的缺陷 (qq.com)](https://mp.weixin.qq.com/s/CwYb1uLnzrz7s9jXeqSynw)
 7. [【强化学习 229】ChatGPT/InstructGPT - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/589827115)
 8. [ChatGPT/InstructGPT详解 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/590311003)
-9. 【**RLHF**】Reinforcement learning from Human Feedback，基于人类反馈的强化学习
+9. [ChatGPT是怎样被训练出来的？_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1BG4y137SH/?spm_id_from=333.999.0.0)
+10. 【**RLHF**】Reinforcement learning from Human Feedback，基于人类反馈的强化学习
    - 强化学习教程：[datawhalechina/easy-rl: 强化学习中文教程（蘑菇书）](https://github.com/datawhalechina/easy-rl)
 
    - [从零实现ChatGPT——RLHF技术笔记 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/591474085)
@@ -35,12 +36,13 @@
    - [Illustrating Reinforcement Learning from Human Feedback (RLHF) (huggingface.co)](https://huggingface.co/blog/rlhf)
    - HuggingFace直播录像：https://www.youtube.com/watch?v=EAd4oQtEJOM&ab_channel=HuggingFace
    - PPO算法详解：[Proximal Policy Optimization (PPO) Explained | by Wouter van Heeswijk, PhD | Towards Data Science](https://towardsdatascience.com/proximal-policy-optimization-ppo-explained-abed1952457b)
-10. 【赛尔笔记】
+11. 【赛尔笔记】
     1. [赛尔笔记 | 浅析ChatGPT的原理及应用 (qq.com)](https://mp.weixin.qq.com/s/wLVoY6BwWd9p4DqrpOMOxg)
     2. [赛尔笔记 | ChatGPT第二弹：PPO算法 (qq.com)](https://mp.weixin.qq.com/s/h9c3w1af2uBYLlVbw7j82A)
-11. [In-Context Learning玩法大全 (qq.com)](https://mp.weixin.qq.com/s/NLWCuzcCdwljQfzu-Jd9lQ)
-12. [为什么所有公开的对 GPT-3 的复现都失败了？复现和使用GPT-3/ChatGPT，你所应该知道的 (qq.com)](https://mp.weixin.qq.com/s/AyXboJoKZsKasUJ0KUYtPA)
-13. 【数据集】[大规模语言模型训练必备数据集-The Pile：涵盖22类、800GB的多样性文本数据集概述](https://mp.weixin.qq.com/s/gKNjDYDleDhIeDqYh0M_Xw)
+12. [In-Context Learning玩法大全 (qq.com)](https://mp.weixin.qq.com/s/NLWCuzcCdwljQfzu-Jd9lQ)
+13. [为什么所有公开的对 GPT-3 的复现都失败了？复现和使用GPT-3/ChatGPT，你所应该知道的 (qq.com)](https://mp.weixin.qq.com/s/AyXboJoKZsKasUJ0KUYtPA)
+14. 【数据集】[大规模语言模型训练必备数据集-The Pile：涵盖22类、800GB的多样性文本数据集概述](https://mp.weixin.qq.com/s/gKNjDYDleDhIeDqYh0M_Xw)
+15. 【ChatGPT数据标注指南】https://mp.weixin.qq.com/s/b9QnMtHj6yJfN0goBRSCXg
 
 ## ChatGPT讨论
 
@@ -80,6 +82,7 @@
    - 推理**与query的relevance**以及**推理步骤的order**是CoT的关键。
 5. In-context Learning综述：[A Survey on In-context Learning (arxiv.org)](https://arxiv.org/abs/2301.00234)
 6. LLM的缩放法则：[Scaling Laws for Neural Language Models (arxiv.org)](https://arxiv.org/abs/2001.08361)
+7. **SELF-INSTRUCT**：使用LLM自动生成指令数据[[2212.10560\] Self-Instruct: Aligning Language Model with Self Generated Instructions (arxiv.org)](https://arxiv.org/abs/2212.10560)
 
 ### RLHF
 
@@ -87,38 +90,54 @@
 1. RLHF做摘要任务：[Learning to summarize from human feedback (arxiv.org)](https://arxiv.org/abs/2009.01325)
 1. [Fine-Tuning Language Models from Human Preferences (arxiv.org)](https://arxiv.org/abs/1909.08593)
 
-## ChatGPT竞品
+### 调用外部工具
 
-### Bard-Google
-
-1. [Google AI updates: Bard and new AI features in Search (blog.google)](https://blog.google/technology/ai/bard-google-ai-search-updates/)
-
-## YouChat
-
-1. [who are you - AI Search Based Chat | AI for Search Engines](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat)
+1. 
+2. **WebGPT**-[WebGPT: Browser-assisted question-answering with human feedback (arxiv.org)](https://arxiv.org/abs/2112.09332)
+3. **ToolFormer**-[Toolformer: Language Models Can Teach Themselves to Use Tools (arxiv.org)](https://arxiv.org/abs/2302.04761)
 
 
 
 ## 动手实现ChatGPT/RLHF
 
-1. [lvwerra/trl: Train transformer language models with reinforcement learning. (github.com)](https://github.com/lvwerra/trl)
-2. [allenai/RL4LMs: A modular RL library to fine-tune language models to human preferences (github.com)](https://github.com/allenai/RL4LMs)
-3. [CarperAI/trlx: A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF) (github.com)](https://github.com/CarperAI/trlx)
-4. 一个更简单，更快的GPT，可以快速了解GPT具体实现：[karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
-5. [GPT-3 + RL 全流程训练开源整理 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/608705255)
-6. 一堆ChatGPT的开源实现：https://mp.weixin.qq.com/s/5161sf9h2g5oQRSWar2QOQ
+1. [GPT-3 + RL 全流程训练开源整理 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/608705255)
+2. [lvwerra/trl: Train transformer language models with reinforcement learning. (github.com)](https://github.com/lvwerra/trl)
+3. [allenai/RL4LMs: A modular RL library to fine-tune language models to human preferences (github.com)](https://github.com/allenai/RL4LMs)
+4. [CarperAI/trlx: A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF) (github.com)](https://github.com/CarperAI/trlx)
+5. 一个更简单，更快的GPT，可以快速了解GPT具体实现：[karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)
+6. [GPT-3 + RL 全流程训练开源整理 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/608705255)
+7. 一堆ChatGPT的开源实现：https://mp.weixin.qq.com/s/5161sf9h2g5oQRSWar2QOQ
+8. [transformers_tasks/readme.md at main · HarderThenHarder/transformers_tasks (github.com)](https://github.com/HarderThenHarder/transformers_tasks/blob/main/RLHF/readme.md)
+9. 【**Alpaca**】斯坦福轻量级实现的Instruction-Following Model，以meta的llama作为backbone，在52K个来自ChatGPT的*instruction-following demonstrations*做微调。
+   1. [Stanford CRFM官方blog](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+   2. github repo：[tatsu-lab/stanford_alpaca: Code and documentation to train Stanford's Alpaca models, and generate the data. (github.com)](https://github.com/tatsu-lab/stanford_alpaca#data-release)
+   3. [Stanford Alpaca (羊驼)：ChatGPT 学术版开源实现 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/614354549)
+   4. [Alpaca-Lora (羊驼-Lora): 轻量级 ChatGPT 的开源实现（对标 Standford Alpaca） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/615646636)
+10. **SELF-INSTRUCT**：使用LLM自动生成指令数据
+   1.  [yizhongw/self-instruct: Aligning pretrained language models with instruction data generated by themselves. (github.com)](https://github.com/yizhongw/self-instruct)
 
-## ChatGPT应用开源项目
 
-1. ChatGPT谷歌插件：[wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)
 
-2. 基于 ChatGPT 的微信机器人：[AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot)
+## ChatGPT应用
 
-3. ChatGPT 中文调教指南：[PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+1. 【**NewBing**】
+   1. [Reinventing search with a new AI-powered Microsoft Bing and Edge, your copilot for the web - The Official Microsoft Blog](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/)
 
-4. 基于ChatGPT进行二次开发的一些应用Repo列表：[acheong08's list / Awesome ChatGPT (github.com)](https://github.com/stars/acheong08/lists/awesome-chatgpt)
+   2. [Building the New Bing | Search Quality Insights](https://blogs.bing.com/search-quality-insights/february-2023/Building-the-New-Bing)
 
-5. ChatGPT逆向工程：[acheong08/ChatGPT: Reverse engineered ChatGPT API (github.com)](https://github.com/acheong08/ChatGPT)
+2. PerfectPrompt：https://promptperfect.jina.ai/
+
+3. ChatGPT谷歌插件：[wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension)
+
+4. 基于 ChatGPT 的微信机器人：[AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot)
+
+5. ChatGPT 中文调教指南：[PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+
+6. 基于ChatGPT进行二次开发的一些应用Repo列表：[acheong08's list / Awesome ChatGPT (github.com)](https://github.com/stars/acheong08/lists/awesome-chatgpt)
+
+7. ChatGPT逆向工程：[acheong08/ChatGPT: Reverse engineered ChatGPT API (github.com)](https://github.com/acheong08/ChatGPT)
+
+8. [使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具](https://github.com/howl-anderson/unlocking-the-power-of-llms)
 
 ## ChatGPT产业分析
 
